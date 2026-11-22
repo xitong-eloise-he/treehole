@@ -2,7 +2,7 @@
 
 An anonymous community for sharing what weighs on you and listening to others. Say the things you can't tell people who know you.
 
-**Live site:** https://eloisehe8-debug.github.io/treehole/
+**Live site:** https://eloisehe.here/treehole/
 
 ## Features
 
